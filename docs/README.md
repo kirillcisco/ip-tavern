@@ -1,4 +1,5 @@
 ---
+description: BeerV6 to everyone!
 cover: >-
   .gitbook/assets/417845_Torbjorn from overwatch like a network admin with
   _xl-1024-v1-0.png
@@ -35,7 +36,7 @@ layout:
 ## Как поправить / Предложить тему / Обсудить
 
 > Доступна публичная секция дискуссий, при наличии github аккаунта конечно\
-> [https://github.com/kirillcisco/netops-tavern/discussion](https://github.com/kirillcisco/netops-tavern/discussions)s\
+> [https://github.com/kirillcisco/ip-tavern/discussions](https://github.com/kirillcisco/ip-tavern/discussions)\
 > Также возможен пул реквест по небольшим офрографическим ошибкам
 
 ## Автор
